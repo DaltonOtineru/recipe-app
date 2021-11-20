@@ -51,7 +51,7 @@ function createMeal(meal) {
             <div class="text"> 
             
                 <h2 class="title"> ${meal.strMeal}</h2>
-                <a href="${meal.strYoutube}">Video Recipe</a>
+                
                 <p><span class="bold">Category: </span> ${meal.strCategory}</p>
                 <p class="instructions"> ${meal.strInstructions} </p>
                 <h6>Ingredients -</h6>
